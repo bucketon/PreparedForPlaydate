@@ -1,0 +1,7 @@
+name=Terries
+author=Zac
+description=Prepared for Terries
+bundleID=com.zac.terries
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
